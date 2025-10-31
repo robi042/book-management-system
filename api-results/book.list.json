@@ -1,0 +1,1 @@
+{"statusCode":500,"timestamp":"2025-10-29T07:19:12.989Z","path":"/bms/books?page=1&limit=10","message":"Cannot read properties of undefined (reading 'setLocale')","error":"Internal Server Error"}

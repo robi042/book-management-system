@@ -1,0 +1,1 @@
+{"statusCode":500,"timestamp":"2025-10-29T07:19:12.924Z","path":"/bms/authors","message":"Cannot read properties of undefined (reading 'setLocale')","error":"Internal Server Error"}
